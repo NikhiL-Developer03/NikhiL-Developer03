@@ -17,8 +17,11 @@
 
 ## About Me:
 
-- I am currently learning Data Structure And Algorithms in Cpp(I have solved 170 leet code problems till now).
-- Aspiring Full Stack developer(currently knows only frontend development).
+- Aspiring software developer with a focus on full-stack development.
+- Proficient in React.js, Node.js, and MongoDB.
+- Experienced in cloud engineering, managing Google Workspace.
+- Strong problem-solving skills, active on LeetCode and GFG.
+- Involved in organizing hackathons and technical workshops.
 
 ## Skill Set:
 
